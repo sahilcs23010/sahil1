@@ -1,3 +1,6 @@
+# SAHIL 
+This the repository of a basic hotel management program in C programming..
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
